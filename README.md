@@ -19,5 +19,6 @@ built a monitoring system that can provide the users with real-time feedback wit
 - detects problems early
 - helps with providing predictions
 
-## Preview 
+## Preview of system
+
 
